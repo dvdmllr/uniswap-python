@@ -59,8 +59,8 @@ _factory_contract_addresses_v2 = {
     "harmony_mainnet": "0xc35DADB65012eC5796536bD9864eD8773aBc74C4",
     "harmony_testnet": "0xc35DADB65012eC5796536bD9864eD8773aBc74C4",
     "sepolia": "0x7E0987E5b3a30e3f2828572Bb659A548460a3003",
-    "base": "0x33128a8fC17869897dcE68Ed026d694621f6FDfD", 
-    "base_sepolia": "0x4752ba5DBc23f44D87826276BF6Fd6b1C372aD24"
+    "base": "0x8909Dc15e40173Ff4699343b6eB8132c65e18eC6", 
+    "base_sepolia": "0x7Ae58f10f7849cA6F5fB71b7f45CB416c9204b1e"
 }
 
 _router_contract_addresses_v2 = {
@@ -75,8 +75,8 @@ _router_contract_addresses_v2 = {
     # SushiSwap on Harmony
     "harmony_mainnet": "0x1b02dA8Cb0d097eB8D57A175b88c7D8b47997506",
     "harmony_testnet": "0x1b02dA8Cb0d097eB8D57A175b88c7D8b47997506",
-    "base": "0x2626664c2603336E57B271c5C0b26F421741e481",
-    "base_sepolia": "0x94cC0AaC535CCDB3C01d6787D6413C739ae12bc4"
+    "base": "0x4752ba5dbc23f44d87826276bf6fd6b1c372ad24",
+    "base_sepolia": "0x1689E7B1F10000AE47eBfE339a4f69dECd19F602"
 }
 
 MAX_UINT_128 = (2**128) - 1
